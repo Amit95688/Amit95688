@@ -146,6 +146,3 @@ amit = {
   <i>Open to collaborations, internships, and interesting AI/ML problems.</i>
 </p></p>
 
-<p align="center">
-  <i>Open to collaborations, internships, and interesting AI/ML problems.</i>
-</p>
