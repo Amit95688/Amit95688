@@ -8,9 +8,9 @@ Focused on learning by building real systems, not just training models.
 ## Links
 
 - **GitHub:** [github.com/Amit95688](https://github.com/Amit95688)
-- **LinkedIn:** [add your link here]
+- **LinkedIn:** [linkedin.com/in/amit-dubey-45292629a](https://www.linkedin.com/in/amit-dubey-45292629a)
 - **Kaggle:** [kaggle.com/amit393](https://www.kaggle.com/amit393)
-- **Resume:** [View Resume](https://drive.google.com/file/d/1fFEw-VcCW9y2ftYjADpBgR1eRhKlNwa9/view)
+- **Resume:** [View Resume](https://drive.google.com/file/d/1Qov3JuQpU0wrbQx8u_E8wnkk9t-IsqlF/view?usp=sharing)
 
 ---
 
