@@ -124,7 +124,7 @@ amit = {
 
 ---
 
-| 🔬 Transformer Internals | 🔄 In Progress |
+
 
 ---
 
@@ -141,6 +141,10 @@ amit = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amit95688&color=6C63FF&style=flat-square&label=Profile+Views" />
 </p>
+
+<p align="center">
+  <i>Open to collaborations, internships, and interesting AI/ML problems.</i>
+</p></p>
 
 <p align="center">
   <i>Open to collaborations, internships, and interesting AI/ML problems.</i>
