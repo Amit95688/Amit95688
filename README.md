@@ -15,7 +15,7 @@
   <a href="https://huggingface.co/kingwar1">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
-  <a href="https://drive.google.com/file/d/1Qov3JuQpU0wrbQx8u_E8wnkk9t-IsqlF/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1IWFPUumR2l8n-jfQbjREQbshcSTel3wc/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -124,10 +124,6 @@ amit = {
 
 ---
 
-
-
----
-
 ## 💬 How I Think
 
 > *"I prefer understanding systems deeply rather than just using tools."*
@@ -144,5 +140,4 @@ amit = {
 
 <p align="center">
   <i>Open to collaborations, internships, and interesting AI/ML problems.</i>
-</p></p>
-
+</p>
